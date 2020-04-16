@@ -11,8 +11,10 @@ See it in action:
 
 *Trippy Version:*
 
-[Code](). As yo can see I added an area for the player to choose their spaceship so I used a sprite sheet and I divide up the sprite sheet up to correspond with what spaceship the player chose (kinda like the cat running animation project). But, the sprite sheet was showed up really small so the icons were tiny.
+[Code](). 
 
 See it in action:
 
-![2]()
+![2](https://github.com/BOLTZZ/Asteroid-Game/blob/master/trippyVers.gif)
+
+As you can see I added an area for the player to choose their spaceship so I used a sprite sheet and I divide up the sprite sheet up to correspond with what spaceship the player chose (kinda like the cat running animation project). But, the sprite sheet was showed up really small so the icons were tiny.
