@@ -25,6 +25,6 @@ As you can see I added an area for the player to choose their spaceship so I use
 
 See it in action:
 
-![3]()
+![3](https://github.com/BOLTZZ/Asteroid-Game/blob/master/final_vers.gif)
 
 For the final version I just resorted to making indivual image files for each spaceship and just accessed those in the code because I couldn't find a solution to the problem other than this. Feel free to email me if you figure it out. Also, I added lasers which the player could shoot and they would "destroy" the asteroid when in reality just moving it to the top of the scren. And, I added a backstory which is that the player is trying to get into the prestigious Elite Space Adacemy and this is the entrance test. A score of 50 and less results in a fail while 51 and higher results in acceptance.
