@@ -11,7 +11,7 @@ See it in action:
 
 *Trippy Version:*
 
-[Code](). 
+[Code](https://github.com/BOLTZZ/Asteroid-Game/blob/master/Code%20(Trippy%20Version).md). 
 
 See it in action:
 
@@ -21,7 +21,7 @@ As you can see I added an area for the player to choose their spaceship so I use
 
 *Final Version:*
 
-[Code]()
+[Code](https://github.com/BOLTZZ/Asteroid-Game/blob/master/Code%20(Final%20Version).md)
 
 See it in action:
 
