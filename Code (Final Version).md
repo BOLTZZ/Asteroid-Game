@@ -1,3 +1,5 @@
+* Use arrow keys to move and spacebar to shoot lasers.
+
 Main.py
 ```python
 import pygame, random, enemy, sprite_sheet
